@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thuvaragan
-- 👀I’m interested in Bioinformatics
+- 👀 I’m interested in Bioinformatics
 - 📫 thuvaraganr14@gmail.com
 
 <!---
